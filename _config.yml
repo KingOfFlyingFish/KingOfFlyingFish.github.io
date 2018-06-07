@@ -15,8 +15,8 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>못난 유니티 개발자의 블로그에 오신 것을 환영합니다.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>초보 유니티 개발자의 블로그에 오신 것을 환영합니다.</p>
+  header_text_feature_image: assets/img/thumbnails/Profile.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
