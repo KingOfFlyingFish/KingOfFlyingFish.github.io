@@ -1,21 +1,21 @@
 # SITE CONFIGURATION
 baseurl:
 url: "https://KingOfFlyingFish.github.io"
-title: 민규의 개인적인 블로그 # site's title
+title: 민규의 일상 블로그 # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: 민규의 개인적인 블로그 # blog's title
+  title: 민규의 일상 블로그 # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>못난 날치라도 왕이 된다면 하늘을 날 수 있지 않을까요?</p>
+     <p>못난 유니티 개발자의 블로그에 오신 것을 환영합니다.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
