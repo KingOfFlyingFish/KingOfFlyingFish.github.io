@@ -15,7 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>초보 유니티 개발자의 블로그에 오신 것을 환영합니다.</p>
+     <p>항상 즐겁고 싶은 유니티 개발자의 블로그에 오신 것을 환영합니다.</p>
   header_text_feature_image: assets/img/thumbnails/Profile.jpg
   footer_text: >
    Life is venture or nothing.
