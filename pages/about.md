@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/thumbnails/Profile.jpg"
-tags: [About, Test]
+tags: [About, 자기소개]
 ---
 ![본명 : 박민규]({{ site.baseurl }}/assets/img/thumbnails/Profile_Img.jpg)
 
