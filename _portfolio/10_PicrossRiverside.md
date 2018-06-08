@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Tower of Hanoi
-img: "assets/img/portfolio/toh.png"
+title: 10_Picross Riverside
+feature-img: "assets/img/portfolio/10_PicrossRiverside.png"
+img: "assets/img/portfolio/10_PicrossRiverside.png"
 date: September 2014
 ---
 

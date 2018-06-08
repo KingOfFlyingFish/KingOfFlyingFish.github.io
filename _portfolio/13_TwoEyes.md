@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Creative
-feature-img: "assets/img/portfolio/safe.png"
-img: "assets/img/portfolio/safe.png"
+title: Two Eyes
+feature-img: "assets/img/portfolio/13_TwoEyes.png"
+img: "assets/img/portfolio/13_TwoEyes.png"
 date: August, 16 2014
 tags: [Ipsum]
 ---

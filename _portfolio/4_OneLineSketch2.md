@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Cake
-feature-img: "assets/img/portfolio/cake.png"
-img: "assets/img/portfolio/cake.png"
+title: One Line Sketch2
+feature-img: "assets/img/portfolio/4_OneLineSketch2.png"
+img: "assets/img/portfolio/4_OneLineSketch2.png"
 date: 27 September 2015
 tags: [Lorem, Ipsum, Portfolio]
 ---

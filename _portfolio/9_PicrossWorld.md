@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Github
-img: "assets/img/portfolio/github.png"
+title: Picross World
+feature-img: "assets/img/portfolio/9_PicrossWorld.png"
+img: "assets/img/portfolio/9_PicrossWorld.png"
 date: 20-10-2017
 tags: [Lorem, Portfolio]
 ---

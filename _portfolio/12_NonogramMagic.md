@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Ninja
-img: "assets/img/portfolio/ninja.png"
+title: Nonogram Magic
+feature-img: "assets/img/portfolio/12_NonogramMagic.png"
+img: "assets/img/portfolio/12_NonogramMagic.png"
 date: April, 08 2014
 tags: [Lorem]
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Cake
-feature-img: "assets/img/portfolio/cake.png"
-img: "assets/img/portfolio/cake.png"
+title: Earth Save Us
+feature-img: "assets/img/portfolio/6_EarthSaveUs.png"
+img: "assets/img/portfolio/6_EarthSaveUs.png"
 date: 27 September 2015
 tags: [Lorem, Ipsum, Portfolio]
 ---

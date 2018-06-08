@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Tic tac toe
-feature-img: "assets/img/portfolio/ttt.png"
-img: "assets/img/portfolio/ttt.png"
+title: Nonobot
+feature-img: "assets/img/portfolio/15_Nonobot.png"
+img: "assets/img/portfolio/15_Nonobot.png"
 date: September 2014
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Cake
-feature-img: "assets/img/portfolio/cake.png"
-img: "assets/img/portfolio/cake.png"
+title: Picross Survival
+feature-img: "assets/img/portfolio/3_PicrossSurvival.png"
+img: "assets/img/portfolio/3_PicrossSurvival.png"
 date: 27 September 2015
 tags: [Lorem, Ipsum, Portfolio]
 ---

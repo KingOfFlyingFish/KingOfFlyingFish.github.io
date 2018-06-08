@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Circus
-img: "assets/img/portfolio/circus.png"
-date: September 2014
+title: Tap Tap Up
+feature-img: "assets/img/portfolio/8_TapTapUp.png"
+img: "assets/img/portfolio/8_TapTapUp.png"
+date: 27 September 2014
 tags: [Ipsum]
 ---
 
