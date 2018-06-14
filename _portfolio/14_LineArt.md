@@ -2,6 +2,7 @@
 layout: post
 title: Line Art
 feature-img: "assets/img/portfolio/14_LineArt.png"
+img: "assets/img/portfolio/14_LineArt.png"
 date: 2018-01-25
 ---
 
