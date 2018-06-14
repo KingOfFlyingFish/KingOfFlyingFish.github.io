@@ -6,8 +6,7 @@ img: "assets/img/portfolio/5_PicrossMon.png"
 date: 2017-01-12
 tags: [Lorem, Ipsum, Portfolio]
 ---
-
-{% include movie.html id="nAXuJdPQIQg" %}  
+<iframe width="853" height="480" src="https://www.youtube.com/embed/nAXuJdPQIQg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 길 잃은 작은 아이와 소극적인 괴물의 우연한 만남,
 과연 그들의 만남은 어떤 결과를 만들어 낼까요?

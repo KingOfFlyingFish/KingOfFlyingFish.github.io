@@ -7,8 +7,7 @@ date: 27 September 2015
 tags: [Lorem, Ipsum, Portfolio]
 ---
 
-{% include movie.html id="C5XgT3hDmcY" %}  
-
+<iframe width="853" height="480" src="https://www.youtube.com/embed/C5XgT3hDmcY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ---
 
 문지기들을 도와 하늘에서 길을 잃은 꼬마 유령들의 길을 찾아주세요.

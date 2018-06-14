@@ -6,8 +6,7 @@ img: "assets/img/portfolio/4_OneLineSketch2.png"
 date: 2016-11-24
 tags: [Lorem, Ipsum, Portfolio]
 ---
-
-{% include movie.html id="JPMeKUqj-ME" %}  
+<iframe width="853" height="480" src="https://www.youtube.com/embed/JPMeKUqj-ME" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 한번 지나간 블럭은 다시 지나 갈 수 없어요.
 

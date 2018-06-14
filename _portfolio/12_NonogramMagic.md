@@ -7,9 +7,7 @@ date: 2017-09-20
 tags: [Lorem]
 ---
 
-
-{% include movie.html id="uDhuUN0dCc0" %}  
-
+<iframe width="853" height="480" src="https://www.youtube.com/embed/uDhuUN0dCc0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 평화로운 마을에 나쁜 몬스터들이 나타났어요.
 

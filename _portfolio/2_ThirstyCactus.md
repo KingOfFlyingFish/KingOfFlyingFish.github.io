@@ -7,8 +7,7 @@ date: 27 September 2015
 tags: [Lorem, Ipsum, Portfolio]
 ---
 
-{% include movie.html id="RWzoXeGdlCg" %}  
-
+<iframe width="853" height="480" src="https://www.youtube.com/embed/RWzoXeGdlCg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ---
 
 하늘에서 태양만 내리쬔지 어느덧 6개월 째...

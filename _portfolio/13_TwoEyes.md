@@ -9,7 +9,7 @@ tags: [Ipsum]
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/zXmHEOyPPe4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes1.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes2.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes3.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes4.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes5.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes6.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes7.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes8.png" }})
+![image]({{ site.baseurl }}/{{ "assets/img/screenshot/twoeyes/twoeyes1.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/screenshot/twoeyes/twoeyes2.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/screenshot/twoeyes/twoeyes3.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/screenshot/twoeyes/twoeyes4.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/screenshot/twoeyes/twoeyes5.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/screenshot/twoeyes/twoeyes6.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/screenshot/twoeyes/twoeyes7.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/screenshot/twoeyes/twoeyes8.png" }})
 
 노노그램과 함께 몽환적인 여행을 시작하세요.
 어째서 그들은 늑대와 사슴이 되어 다시 만나게 되었을까요?
