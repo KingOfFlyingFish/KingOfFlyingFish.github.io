@@ -7,8 +7,6 @@ date: 2017-11-29
 tags: [Ipsum]
 ---
 
-{% include movie.html id="zXmHEOyPPe4" %}  
-
 <iframe width="853" height="480" src="https://www.youtube.com/embed/zXmHEOyPPe4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes1.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes2.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes3.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes4.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes5.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes6.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes7.png" }}) ![image]({{ site.baseurl }}/{{ "assets/img/portfolio/twoeyes/twoeyes8.png" }})
