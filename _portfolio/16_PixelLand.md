@@ -3,9 +3,19 @@ layout: post
 title: Pixel Land
 feature-img: "assets/img/portfolio/16_PixelLand.png"
 img: "assets/img/portfolio/16_PixelLand.png"
-date: September 2014
+date: 2018-06-04
 ---
 
+{% include movie.html id="OpqfRyXOAJc" %}  
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+아이부터 어른까지 모든 연령대가 할 수 있는 색칠 놀이. 
+
+[특징]
+수백개 이상의 무료 그림들
+그림을 성공하면 재미있는 캐릭터 및 건물들이 생성
+각종 동물들, 사진, 음식 등 풍부한 주제
+다양한 색칠 도구 및 힌트 기능
+사용자 편의적인 각종 도구들
+부드러운 음악과 함께하는 스트레스 타파
+
 

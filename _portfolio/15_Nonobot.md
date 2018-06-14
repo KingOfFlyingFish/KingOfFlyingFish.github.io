@@ -3,8 +3,12 @@ layout: post
 title: Nonobot
 feature-img: "assets/img/portfolio/15_Nonobot.png"
 img: "assets/img/portfolio/15_Nonobot.png"
-date: September 2014
+date: 2018-03-07
 ---
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+{% include movie.html id="wOzek5cI6Ek" %}  
+
+닉(Nick)과 앤(Anne)의 흥미로운 노노그램(Nonogram)이야기.
+개발 자금이 바닥난 과학자 닉은 로봇 앤을 완성할 수 있을까요? 
+닉 일행과 함께 마을에서 벌어지는 사건들을 해결해보세요.
 
