@@ -1,15 +1,28 @@
 ---
 layout: post
 title: One Line Sketch2
-feature-img: "assets/img/portfolio/4_OneLineSketch2.png"
+#feature-img: "assets/img/portfolio/4_OneLineSketch2.png"
 img: "assets/img/portfolio/4_OneLineSketch2.png"
 date: 2016-11-24
-tags: [Lorem, Ipsum, Portfolio]
+tags: [One Line Sketch2, Portfolio]
 ---
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/JPMeKUqj-ME" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![image]({{ site.baseurl }}/{{ "assets/img/screenshot/onelinesketch2/index.png" }}) 
+
 ---
 
+### 마켓 다운로드 주소
+
+* Android - [바로가기](https://play.google.com/store/apps/details?id=co.kr.gamefox.picrossmon)
+* iOS - [바로가기](https://itunes.apple.com/us/app/picross-survival/id1230793403?ls=1&mt=8)
+
+---
+
+### 플레이 영상
+
+<center><iframe width="600" height="600" src="https://www.youtube.com/embed/JPMeKUqj-ME" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+
+---
 한번 지나간 블럭은 다시 지나 갈 수 없어요.
 
 블럭을 모두 연결하면 짜잔~! 완성!!

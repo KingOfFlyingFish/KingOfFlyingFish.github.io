@@ -8,8 +8,8 @@ description: "A website with blog posts and pages" # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: 민규의 개발 블로그 # blog's title
-  avatar: assets/img/triangle.svg
+  title: Minkyu's Blog # blog's title
+  avatar: assets/img/thumbnails/icon.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
@@ -21,7 +21,7 @@ theme_settings:
    Life is venture or nothing.
 
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  rss: false  # Make sure you created a feed.xml with feed.xml layout
   email_address: "pepar123@gmail.com"
   behance:
   bitbucket:
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "kingofflyingfish"
+  github: #"kingofflyingfish"
   google_plus:
   instagram:
   keybase:
@@ -113,7 +113,9 @@ sass:
   sass_dir: _sass
   style: :compressed
 plugins: [jekyll-paginate, jekyll-seo-tag]
-#theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
+theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
 exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png", "package.json", "node_modules", "gulpfile.js", ".idea/*"]
 
-theme: jekyll-theme-cayman
+incoding: UTF-8
+
+#theme: jekyll-theme-cayman

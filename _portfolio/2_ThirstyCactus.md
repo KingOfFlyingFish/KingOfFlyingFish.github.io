@@ -1,14 +1,23 @@
 ---
 layout: post
 title: Thirsty Cactus
-feature-img: "assets/img/portfolio/2_ThirstyCactus.png"
+#feature-img: "assets/img/portfolio/2_ThirstyCactus.png"
 img: "assets/img/portfolio/2_ThirstyCactus.png"
-date: 27 September 2015
-tags: [Lorem, Ipsum, Portfolio]
+date: 2016-09-20
+tags: [Thirsty Cactus, Portfolio]
 ---
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/RWzoXeGdlCg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/RWzoXeGdlCg" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+
 ---
+
+### 마켓 다운로드 주소
+
+* Android - [바로가기](https://play.google.com/store/apps/details?id=kr.co.greentree.thirstycactus)
+
+---
+
+### 게임 소개
 
 하늘에서 태양만 내리쬔지 어느덧 6개월 째...
 
