@@ -19,7 +19,7 @@ tags: [Picross, Nonogram Magic, Portfolio]
 
 ### 플레이 영상
 
-<center><iframe width="853" height="480" src="https://www.youtube.com/embed/uDhuUN0dCc0" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/uDhuUN0dCc0" frameborder="0" allowfullscreen></iframe></center>
 
 ---
 

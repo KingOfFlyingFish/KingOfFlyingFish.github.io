@@ -6,7 +6,7 @@ img: "assets/img/portfolio/8_TapTapUp.png"
 date: 2017-03-20
 tags: [TapTapUp, Portfolio]
 ---
-<center><iframe width="853" height="480" src="https://www.youtube.com/embed/kTd3oSt8cB4" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/kTd3oSt8cB4" frameborder="0" allowfullscreen></iframe></center>
 
 ---
 

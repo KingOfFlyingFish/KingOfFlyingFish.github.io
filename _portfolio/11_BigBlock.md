@@ -7,7 +7,7 @@ date: 2017-08-31
 tags: [Big Block, Portfolio]
 ---
 
-<center><iframe width="853" height="480" src="https://www.youtube.com/embed/aI7AEghwUlg" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/aI7AEghwUlg" frameborder="0" allowfullscreen></iframe></center>
 
 ---
 

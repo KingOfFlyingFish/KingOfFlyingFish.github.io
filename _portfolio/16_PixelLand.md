@@ -6,7 +6,7 @@ img: "assets/img/portfolio/16_PixelLand.png"
 date: 2018-06-04
 tags: [Pixel Land, Portfolio]
 ---
-<center><iframe width="853" height="480" src="https://www.youtube.com/embed/OpqfRyXOAJc" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/OpqfRyXOAJc" frameborder="0" allowfullscreen></iframe></center>
 
 ---
 

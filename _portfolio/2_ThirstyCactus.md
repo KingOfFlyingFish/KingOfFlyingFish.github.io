@@ -7,7 +7,7 @@ date: 2016-09-20
 tags: [Thirsty Cactus, Portfolio]
 ---
 
-<center><iframe width="853" height="480" src="https://www.youtube.com/embed/RWzoXeGdlCg" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/RWzoXeGdlCg" frameborder="0"  allowfullscreen></iframe></center>
 
 ---
 

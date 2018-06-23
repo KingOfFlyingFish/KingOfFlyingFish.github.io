@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl:
 url: "https://KingOfFlyingFish.github.io"
-title: 민규의 일상 블로그 # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Minkyu's Blog # site's title
+description: "날치왕의 블로그에 오신 것을 환영합니다." # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -15,7 +15,9 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>항상 즐겁고 싶은 유니티 개발자의 블로그에 오신 것을 환영합니다.</p>
+    <p>오늘보다 더 나은 내일을 위한 소소한 기록들.</p>
+    <p>Life is venture or nothing.</p>
+
   header_text_feature_image: assets/img/thumbnails/Profile.jpg
   footer_text: >
    Life is venture or nothing.

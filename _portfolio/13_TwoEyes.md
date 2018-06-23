@@ -7,7 +7,7 @@ date: 2017-11-29
 tags: [Picross, Two Eyes, Portfolio]
 ---
 
-<center><iframe width="853" height="480" src="https://www.youtube.com/embed/zXmHEOyPPe4" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/zXmHEOyPPe4" frameborder="0" allowfullscreen></iframe></center>
 
 ---
 

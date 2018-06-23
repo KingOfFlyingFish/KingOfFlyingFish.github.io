@@ -7,7 +7,7 @@ date: 2016-07-05
 tags: [Pantom Maze, Portfolio]
 ---
 
-<center><iframe width="600" height="600" src="https://www.youtube.com/embed/C5XgT3hDmcY" frameborder="0"  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe width="600" height="600" src="https://www.youtube.com/embed/C5XgT3hDmcY" frameborder="0"  allowfullscreen></iframe></center>
 
 ---
 
