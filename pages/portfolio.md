@@ -2,7 +2,7 @@
 layout: page
 title : Portfolio 
 permalink: /portfolio/
-subtitle: "제가 프로그래밍을 도맡아 참여한 작품 목록입니다." 
+subtitle: "제가 프로그래머로 참여한 프로젝트 목록입니다." 
 feature-img: "assets/img/thumbnails/Profile.jpg"
 ---
 
