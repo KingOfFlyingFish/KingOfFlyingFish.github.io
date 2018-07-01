@@ -40,7 +40,7 @@ tags: [About, 자기소개]
 >   * 안드로이드 100만 다운로드 달성 (평점 4.8)
 >   * 7개 언어 지원 및 언어 선택 가능
 
-이외에도 일본 로컬 마켓인 au Smartpass에도 출시한 [Picross Mon]({{ site.baseurl }}/portfolio/5-PicrossMon) 등 여러 게임을 개발했으며, 제가 프로그래머로써 참여한 게임 목록은 포트폴리오 페이지에서 확인할 수 있습니다.
+이외에도 일본 로컬 마켓인 au Smartpass에도 출시한 [Picross Mon]({{ site.baseurl }}/portfolio/5-PicrossMon) 등 여러 게임을 개발했으며, 제가 프로그래머로서 참여한 게임 목록은 포트폴리오 페이지에서 확인할 수 있습니다.
 
 > [포트폴리오 페이지 바로가기]({{ site.baseurl }}/portfolio)
 
