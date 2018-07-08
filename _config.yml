@@ -2,7 +2,7 @@
 baseurl:
 url: "https://KingOfFlyingFish.github.io"
 title: Minkyu's Blog # site's title
-description: "날치왕의 블로그에 오신 것을 환영합니다." # used by search engines
+description: "민규의 포폴 홈페이지에 오신 것을 환영합니다." # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -31,7 +31,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: #"kingofflyingfish"
+  github: "kingofflyingfish"
   google_plus:
   instagram:
   keybase:
@@ -115,7 +115,7 @@ sass:
   sass_dir: _sass
   style: :compressed
 plugins: [jekyll-paginate, jekyll-seo-tag]
-theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
+#theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
 exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png", "package.json", "node_modules", "gulpfile.js", ".idea/*"]
 
 incoding: UTF-8

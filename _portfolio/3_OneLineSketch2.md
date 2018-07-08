@@ -2,7 +2,7 @@
 layout: post
 title: One Line Sketch2
 #feature-img: "assets/img/portfolio/4_OneLineSketch2.png"
-img: "assets/img/portfolio/4_OneLineSketch2.png"
+img: "assets/img/portfolio/3_OneLineSketch2.png"
 date: 2016-11-24
 tags: [One Line Sketch2, Portfolio]
 ---

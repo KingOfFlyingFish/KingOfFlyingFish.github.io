@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Gallery
-subtitle: 민규의 추억 상자
+subtitle: 추억 상자
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 tags: [Gallery, Photo]
 ---
 
-<center> 날치라도 왕쯤 되면 하늘을 자유롭게 날 수 있지 않을까!? </center>
+<center> 어제보다 내일 더 높이 뛸 수 있기를... </center>
 <p> </p>
 <p> </p>
 

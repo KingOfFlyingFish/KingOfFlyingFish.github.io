@@ -2,7 +2,7 @@
 layout: post
 title: Big Block
 #feature-img: "assets/img/portfolio/11_BigBlock.png"
-img: "assets/img/portfolio/11_BigBlock.png"
+img: "assets/img/portfolio/7_BigBlock.png"
 date: 2017-08-31
 tags: [Big Block, Portfolio]
 ---

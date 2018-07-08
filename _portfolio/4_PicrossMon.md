@@ -2,7 +2,7 @@
 layout: post
 title: Picross Mon
 #feature-img: "assets/img/portfolio/5_PicrossMon.png"
-img: "assets/img/portfolio/5_PicrossMon.png"
+img: "assets/img/portfolio/4_PicrossMon.png"
 date: 2017-01-12
 tags: [Picross, Picross Mon, Portfolio]
 ---

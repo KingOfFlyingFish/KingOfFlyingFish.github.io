@@ -2,7 +2,7 @@
 layout: post
 title: Tap Tap Up
 #feature-img: "assets/img/portfolio/8_TapTapUp.png"
-img: "assets/img/portfolio/8_TapTapUp.png"
+img: "assets/img/portfolio/6_TapTapUp.png"
 date: 2017-03-20
 tags: [TapTapUp, Portfolio]
 ---

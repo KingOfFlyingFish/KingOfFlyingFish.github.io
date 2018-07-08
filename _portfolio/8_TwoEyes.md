@@ -2,7 +2,7 @@
 layout: post
 title: Two Eyes
 #feature-img: "assets/img/portfolio/13_TwoEyes.png"
-img: "assets/img/portfolio/13_TwoEyes.png"
+img: "assets/img/portfolio/8_TwoEyes.png"
 date: 2017-11-29
 tags: [Picross, Two Eyes, Portfolio]
 ---

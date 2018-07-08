@@ -2,7 +2,7 @@
 layout: post
 title: Earth Save Us
 #feature-img: "assets/img/portfolio/6_EarthSaveUs.png"
-img: "assets/img/portfolio/6_EarthSaveUs.png"
+img: "assets/img/portfolio/5_EarthSaveUs.png"
 date: 2017-02-06
 tags: [Earth Save Us, Portfolio]
 ---

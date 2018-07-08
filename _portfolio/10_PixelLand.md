@@ -2,7 +2,7 @@
 layout: post
 title: Pixel Land
 #feature-img: "assets/img/portfolio/16_PixelLand.png"
-img: "assets/img/portfolio/16_PixelLand.png"
+img: "assets/img/portfolio/10_PixelLand.png"
 date: 2018-06-04
 tags: [Pixel Land, Portfolio]
 ---
@@ -18,7 +18,7 @@ tags: [Pixel Land, Portfolio]
 ---
 
 ### 게임 소개
-![image]({{ site.baseurl }}/{{ "assets/img/screenshot/pixelland/mainimage.png" }}) 
+![image]({{ site.baseurl }}/{{ "assets/img/screenshot/pixelland/mainimage.png" }})  
 
 아이부터 어른까지 모든 연령대가 할 수 있는 색칠 놀이. 
 
