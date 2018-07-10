@@ -11,10 +11,28 @@ tags: [One Line Sketch2, Portfolio]
 
 ---
 
+### 프로젝트 소개
+
+모든 길을 한번씩만 지나가며 그림을 완성하는 게임입니다. 기존 플레시로 개발되어있던 One Line Sketch1의 후속작을 유니티를 사용하여 개발하였습니다. 
+
+더 큰 그림도 쉽게 그릴 수 있도록 제스처를 이용한 줌 인 기능이 추가 되었으며, 유니티의 파티클 시스템을 이용하여 여러 이펙트를 구현한 첫 프로젝트입니다.
+
+쳅터를 하나씩 클리어 할수록 밤하늘에 별자리가 점차 많아집니다.
+
+One Line Sketch2는 Android로 출시되었습니다.
+
+핵심 기능 소개
+
+>* 스테이지 게임 로직 구현
+>* 힌트 기능
+>* 스테이지 생성 어드민
+>* 배너, 전면 광고
+>* 로그인, 업적, 클라우드 저장 등 소셜 서비스
+
+
 ### 마켓 다운로드 주소
 
-* Android - [바로가기](https://play.google.com/store/apps/details?id=co.kr.gamefox.picrossmon)
-* iOS - [바로가기](https://itunes.apple.com/us/app/picross-survival/id1230793403?ls=1&mt=8)
+* Android - [바로가기](https://play.google.com/store/apps/details?id=com.puzzlegamefox.onelinesketch2)
 
 ---
 
