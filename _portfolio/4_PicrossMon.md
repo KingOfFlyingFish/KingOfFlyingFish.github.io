@@ -25,7 +25,7 @@ tags: [Picross, Picross Mon, Portfolio]
 
 그 외의 노노그램 게임의 기본적인 부분은 모두 구현하였으며, 일본쪽 퍼블리셔의 관심을 받아 **au Smartpass라는 일본 로컬 마켓에도 출시**하였습니다.
 
-Picross Mon은 iOS와 Android, 그리고 일본 로컬 마켓인 au Smartpass에 출시되었으며, 현재 **플레이 스토어에서 50만 다운로드를 달성**하였습니다.
+Picross Mon은 iOS와 Android, 그리고 au Smartpass에 출시되었으며, 현재 **플레이 스토어에서 50만 다운로드를 달성**하였습니다.
 
 네모로직 게임의 기본 기능들
 
