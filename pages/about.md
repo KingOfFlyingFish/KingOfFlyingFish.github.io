@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-feature-img: "assets/img/thumbnails/Profile.jpg"
+#feature-img: "assets/img/thumbnails/Profile.jpg"
 tags: [About, 자기소개]
 ---
 
