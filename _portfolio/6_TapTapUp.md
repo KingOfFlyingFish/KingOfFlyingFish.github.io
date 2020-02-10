@@ -6,8 +6,11 @@ img: "assets/img/portfolio/6_TapTapUp.png"
 date: 2017-03-20
 tags: [TapTapUp, Portfolio]
 ---
-<center><iframe width="853" height="480" src="https://www.youtube.com/embed/kTd3oSt8cB4" frameborder="0" allowfullscreen></iframe></center>
+![image]({{ site.baseurl }}/{{ "assets/img/screenshot/taptapup/taptapup1.png" }}) 
 
+![image]({{ site.baseurl }}/{{ "assets/img/screenshot/taptapup/taptapup2.png" }}) 
+
+![image]({{ site.baseurl }}/{{ "assets/img/screenshot/taptapup/taptapup3.png" }}) 
 ---
 ### 프로젝트 소개
 
@@ -35,7 +38,8 @@ tags: [TapTapUp, Portfolio]
 
 ### 마켓 다운로드 주소
 
-* Android - ~~바로가기~~ (유저 유치 실패)
+* Android - ~~서비스 종료~~
+* iOS - ~~서비스 종료~~
 
 ---
 

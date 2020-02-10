@@ -34,8 +34,8 @@ tags: [Line Art, Portfolio]
 
 ### 마켓 다운로드 주소
 
-* Android - [바로가기](https://play.google.com/store/apps/details?id=com.gamefox.lineart)
-* iOS - [바로가기](https://itunes.apple.com/us/app/line-art-puzzle/id1340124051?ls=1&mt=8)
+* Android - ~~서비스 종료~~
+* iOS - ~~서비스 종료~~
 
 ---
 

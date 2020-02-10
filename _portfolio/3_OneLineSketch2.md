@@ -11,6 +11,13 @@ tags: [One Line Sketch2, Portfolio]
 
 ---
 
+### 마켓 다운로드 주소
+
+* Android - ~~서비스 종료~~
+* iOS - ~~서비스 종료~~
+
+---
+
 ### 프로젝트 소개
 
 모든 길을 한번씩만 지나가며 그림을 완성하는 게임입니다. 기존 플레시로 개발되어있던 One Line Sketch1의 후속작을 유니티를 사용하여 개발하였습니다. 
@@ -29,16 +36,6 @@ One Line Sketch2는 Android로 출시되었습니다.
 >* 배너, 전면 광고
 >* 로그인, 업적, 클라우드 저장 등 소셜 서비스
 
-
-### 마켓 다운로드 주소
-
-* Android - [바로가기](https://play.google.com/store/apps/details?id=com.puzzlegamefox.onelinesketch2)
-
----
-
-### 플레이 영상
-
-<center><iframe width="600" height="600" src="https://www.youtube.com/embed/JPMeKUqj-ME" frameborder="0" allowfullscreen></iframe></center>
 
 ---
 한번 지나간 블럭은 다시 지나 갈 수 없어요.

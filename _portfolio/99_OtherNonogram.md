@@ -32,11 +32,6 @@ tags: [Picross, Portfolio]
 ![image]({{ site.baseurl }}/{{ "assets/img/screenshot/nonobot/index.png" }}) 
 
 
-### 마켓 다운로드 주소
-
-* Android - [바로가기](https://play.google.com/store/apps/details?id=com.gamefox.nonobot)
-* iOS - [바로가기](https://itunes.apple.com/us/app/nonobot/id1356925724?ls=1&mt=8)
-
 ### 플레이 영상
 
 <center><iframe width="853" height="480" src="https://www.youtube.com/embed/wOzek5cI6Ek" frameborder="0" allowfullscreen></iframe></center>
@@ -55,14 +50,6 @@ tags: [Picross, Portfolio]
 
 ![image]({{ site.baseurl }}/{{ "assets/img/screenshot/nonogrammagic/index.png" }}) 
 
-### 마켓 다운로드 주소
-
-* Android - [바로가기](https://play.google.com/store/apps/details?id=com.gamefox.picrossmagic)
-
-### 플레이 영상
-
-<center><iframe width="853" height="480" src="https://www.youtube.com/embed/uDhuUN0dCc0" frameborder="0" allowfullscreen></iframe></center>
-
 ### 게임 소개
 
 평화로운 마을에 나쁜 몬스터들이 나타났어요.
@@ -76,15 +63,6 @@ tags: [Picross, Portfolio]
 # Picross World
 
 ![image]({{ site.baseurl }}/{{ "assets/img/screenshot/picrossworld/index.png" }}) 
-
-### 마켓 다운로드 주소
-
-* Android - [바로가기](https://play.google.com/store/apps/details?id=com.gamefox.picrossworld)
-* iOS - [바로가기](https://itunes.apple.com/us/app/picross-world/id1228951079?ls=1&mt=8)
-
-### 플레이 영상
-
-<center><iframe width="600" height="600" src="https://www.youtube.com/embed/bcx2yi0ZHWg" frameborder="0" allowfullscreen></iframe></center>
 
 ### 게임 소개
 
@@ -115,33 +93,10 @@ tags: [Picross, Portfolio]
 
 ---
 
-# Picross Friends
-
-![image]({{ site.baseurl }}/{{ "assets/img/screenshot/picrossfriends/index.png" }})
-
-
-### 마켓 다운로드 주소
-
-* Android - [바로가기](https://play.google.com/store/apps/details?id=com.puzzlegamefox.picrossfriends)
-
-
-### 플레이 영상
-<center><iframe width="853" height="480" src="https://www.youtube.com/embed/i5Ok3O-NWxY" frameborder="0" allowfullscreen></iframe></center>
-
-
-### 게임 소개
-
-피크로스 문제를 풀고 사라진 동물 친구들을 찾아주세요!
-
----
 
 # Picross Riverside
 
 ![image]({{ site.baseurl }}/{{ "assets/img/screenshot/picrossriverside/index.png" }}) 
-
-### 마켓 다운로드 주소
-
-* Android - ~~바로가기~~ (유저 유치 실패로 그만...ㅠㅜ)
 
 ### 플레이 영상
 

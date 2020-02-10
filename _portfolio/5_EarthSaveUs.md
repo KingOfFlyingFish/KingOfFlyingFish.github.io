@@ -51,7 +51,8 @@ tags: [Earth Save Us, Portfolio]
 
 ### 마켓 다운로드 주소
 
-* Android - ~~바로가기~~ (유저 유치 실패)
+* Android - ~~서비스 종료~~
+* iOS - ~~서비스 종료~~
 
 ---
 

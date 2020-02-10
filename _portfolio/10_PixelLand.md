@@ -6,8 +6,7 @@ img: "assets/img/portfolio/10_PixelLand.png"
 date: 2018-06-04
 tags: [Pixel Land, Portfolio]
 ---
-<center><iframe width="853" height="480" src="https://www.youtube.com/embed/OpqfRyXOAJc" frameborder="0" allowfullscreen></iframe></center>
-
+![image]({{ site.baseurl }}/{{ "assets/img/screenshot/pixelland/FixelLand.png" }})  
 ---
 
 ### 프로젝트 소개
@@ -30,14 +29,12 @@ tags: [Pixel Land, Portfolio]
 >    * 진행하지 못한 부분은 흑백으로 처리하는 이미지 표현
 
 ---
-
 ### 마켓 다운로드 주소
 
-* Android - [바로가기](https://play.google.com/store/apps/details?id=com.gamefox.pixelland)
-* iOS - 준비중
+* Android - ~~서비스 종료~~
+* iOS - ~~서비스 종료~~
 
 ---
-
 ### 게임 소개
 ![image]({{ site.baseurl }}/{{ "assets/img/screenshot/pixelland/mainimage.png" }})  
 

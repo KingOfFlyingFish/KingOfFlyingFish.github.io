@@ -29,7 +29,8 @@ tags: [Pantom Maze, Portfolio]
 
 ### 마켓 다운로드 주소
 
-* Android - [바로가기](https://play.google.com/store/apps/details?id=kr.co.greentree.phantommaze)
+* Android - ~~서비스 종료~~
+* iOS - ~~서비스 종료~~
 
 ---
 

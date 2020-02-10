@@ -33,7 +33,8 @@ Thirsty Cactus는 Android로 출시되었습니다.
 
 ### 마켓 다운로드 주소
 
-* Android - [바로가기](https://play.google.com/store/apps/details?id=kr.co.greentree.thirstycactus)
+* Android - ~~서비스 종료~~
+* iOS - ~~서비스 종료~~
 
 ---
 
