@@ -54,7 +54,7 @@ DMK 팩토리의 '크리스탈 하츠'의 글로벌, 동남아 버전 클라이�
 
 ---
 
-<center><iframe width="853" height="480" src="https://youtu.be/Anr5N-l02WE" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/Anr5N-l02WE" frameborder="0" allowfullscreen></iframe></center>
 
 Hidea 에서 '인간 혹은 뱀파이어'라는 게임의 클라이언트를 담당하였습니다.
 
