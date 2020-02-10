@@ -6,7 +6,7 @@ img: "assets/img/portfolio/10_PixelLand.png"
 date: 2018-06-04
 tags: [Pixel Land, Portfolio]
 ---
-![image]({{ site.baseurl }}/{{ "assets/img/screenshot/pixelland/FixelLand.png" }})  
+![image]({{ site.baseurl }}/{{ "assets/img/screenshot/pixelland/pixelland.png" }})  
 ---
 
 ### 프로젝트 소개
