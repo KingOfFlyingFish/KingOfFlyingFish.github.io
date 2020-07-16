@@ -7,7 +7,7 @@ gallery_path: "assets/img/pexels"
 tags: [Gallery, Photo]
 ---
 
-<center> 어제보다 내일 더 높이 뛸 수 있기를... </center>
+<center> 어제보다 조금 더 나은 오늘을 꿈꾸며... </center>
 <p> </p>
 <p> </p>
 
